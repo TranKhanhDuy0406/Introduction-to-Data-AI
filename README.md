@@ -1,6 +1,6 @@
 # Introduction-to-Data-AI
 
-**Sinh viên:** Trần Khánh Duy | **MSSV:** 24636801
+**Sinh viên:** Trần Khánh Duy | **MSSV:** 24636801 Tuan 08
 
 ## Bài tập: Phân tích Động đất Toàn cầu (1990–2013)
 - Nguồn dữ liệu: USGS Earthquake Catalog
